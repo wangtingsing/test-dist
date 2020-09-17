@@ -1,0 +1,2 @@
+webpackJsonp([8],{AJoF:function(e,n){},M56J:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{},[this._v("\n  云村\n")])},staticRenderFns:[]};var a=t("VU/8")({name:"IndexCountry",data:function(){return{}}},r,!1,function(e){t("AJoF")},"data-v-49492139",null);n.default=a.exports}});
+//# sourceMappingURL=8.039b07a29dfe536ff188.js.map

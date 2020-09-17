@@ -1,0 +1,2 @@
+webpackJsonp([7],{GFj7:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{},[this._v("\n  视频\n")])},staticRenderFns:[]};var a=t("VU/8")({name:"IndexAudio",data:function(){return{}}},r,!1,function(e){t("cyY1")},"data-v-6428eee4",null);n.default=a.exports},cyY1:function(e,n){}});
+//# sourceMappingURL=7.2daf5aa34791415c2568.js.map
